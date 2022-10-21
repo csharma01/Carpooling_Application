@@ -1,2 +1,2 @@
 # Carpooling_Application
-Simple carpooling application coded in python
+Simple carpooling application made as a beginning project.
